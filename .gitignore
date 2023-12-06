@@ -1,0 +1,6 @@
+*.csv
+*.xml
+output*
+bin
+lib
+pyvenv.cfg
