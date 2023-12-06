@@ -2,10 +2,12 @@
 
 ## install
 
-> git clone https://github.com/Eigenbaukombinat/finanzbericht.git
-> cd finanzbericht
-> python3 -m venv .
-> bin/pip install -r requirements.txt
+```
+git clone https://github.com/Eigenbaukombinat/finanzbericht.git
+cd finanzbericht
+python3 -m venv .
+bin/pip install -r requirements.txt
+```
 
 ## prepare
 
@@ -15,5 +17,6 @@ Get them from collmex by clicking on "Buchungen anzeigen", put the year into the
 
 ## use
 
-> bin/python finanzbericht.py
-
+```
+bin/python finanzbericht.py
+```
